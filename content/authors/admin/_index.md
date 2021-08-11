@@ -1,6 +1,7 @@
 ---
 title: Lingzhi Kong
 role: "Student at Northeastern University "
+avatar_filename: appendix_objlib_5.png
 bio: "My research interests include machine learning and robotics. "
 interests:
   - Artificial Intelligence
