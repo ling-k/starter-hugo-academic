@@ -37,6 +37,7 @@ highlight_name: false
 ---
 Lingzhi Kong is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Shanchu
+- Shanchu
+- what to do next? 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}}resumé{{< /staticref >}}.
