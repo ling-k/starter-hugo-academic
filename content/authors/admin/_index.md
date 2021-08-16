@@ -5,7 +5,9 @@ avatar_filename: "appendix_objlib_5.png"
 bio: "AI and Robotics. "
 interests:
   - Machine learning 
-  - Robotics 
+  - Robotics  
+  - Compositional generalization 
+  - Reinforcement Learning 
   
 social:
   - icon: envelope
