@@ -5,7 +5,6 @@ avatar_filename: ""
 bio: "My research interests include machine learning and robotics. "
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
 social:
   - icon: envelope
