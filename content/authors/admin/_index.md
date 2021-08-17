@@ -13,9 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ling-k
@@ -29,7 +26,7 @@ education:
   courses:
     - course: MS in Robotics
       institution: Northeastern University
-      year: 2020
+      year: 2019-2021
     - course: BSc in Artificial Intelligence
       institution: Inner Mongolia University of Technology
       year: 2014
@@ -37,9 +34,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Lingzhi Kong is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lingzhi Kong is a Master's student in Robotics at Northeastern. His research interests include machine learning and robotics. He has been involved in research on object-centric world model learning, compositional generalization, model-based reinforcement learning. 
 
-- Shanchu
-- what to do next? 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My CV {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}}resumé{{< /staticref >}}.
