@@ -35,6 +35,7 @@ superuser: true
 highlight_name: false
 ---
 I am a Master's student in Robotics at Northeastern. My research interests include machine learning and robotics. I have been involved in research on object-centric world model learning, compositional generalization, and model-based reinforcement learning. I completed my Master's project, advised by Prof. [<span style="color:blue"> Lawson Wong </span>](http://www.ccs.neu.edu/home/lsw/). 
+I was fortunate to work with [<span style="color:blue"> Linfeng Zhao </span>](https://lfzhao.com/) and [<span style="color:blue"> Robin Walters </span>](http://mathserver.neu.edu/robin/) during my Master's studies. 
 
 I also worked on medical robotic projects. 
 
