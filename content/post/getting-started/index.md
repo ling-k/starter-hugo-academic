@@ -55,6 +55,8 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 * **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
 ## Inspiration
+\usepackage{amsmath}
+
 `$$f(\textbf{PX})=f(\textbf{X})$$`
 Hi `$z_2 = x + y$`
 $`a^2+b^2=c^2`$
