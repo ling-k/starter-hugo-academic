@@ -1,5 +1,5 @@
 ---
-title: "Paper - ICML"
+title: "test Paper - ICML"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -40,9 +40,15 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: TestLink
- url: 'https://www.youtube.com/watch?v=pZpetVZrR7I' 
-
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
+    
 url_pdf: 'https://ling-kong.netlify.app/publication/example/example.pdf'
 url_code: ''
 url_dataset: ''
