@@ -36,7 +36,7 @@ experience:
         * Model-based RL 
         
   - title: Teaching Assistant 
-    company: Khoury College of Computer Science 
+    company: Khoury College of Computer Science, Northeastern  
     company_url: ''
     location: Boston 
     date_start: '2020-09-01'
