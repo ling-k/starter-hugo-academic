@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Generalizable Robotics and Artificial Intelligence Lab
-    company_url: ''
+    company_url: 'http://www.ccs.neu.edu/home/lsw/'
     location: Boston 
     date_start: '2020-09-01'
     date_end: ''
