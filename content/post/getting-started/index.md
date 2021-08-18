@@ -60,10 +60,20 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 `$$f(\textbf{PX})=f(\textbf{X})$$`
 Hi `$z_2 = x + y$`
 $`a^2+b^2=c^2`$
+$$f(\textbf{PX})=f(\textbf{X})$$
 
 ```math
 e^{i\pi} + 1 = 0
 ```
+
+$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+$\nabla F(\mathbf{x}_{n})$
+
+[Turorial markdown latex](https://wowchemy.com/docs/content/writing-markdown-latex/)
 
 
 ## Features
