@@ -10,12 +10,12 @@ headless: true
 weight: 140
 
 title: Recent Posts
-subtitle: 'testing filter'
+subtitle: ''
 
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: project 
+  page_type: post 
   # Choose how many pages you would like to display (0 = all pages)
   filter_default: 0
   # Filter on criteria
