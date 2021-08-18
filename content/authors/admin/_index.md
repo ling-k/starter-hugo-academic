@@ -41,4 +41,4 @@ I also worked on medical robotic projects.
 
 **I am currently looking for PHD positions in robotics and AI.** 
 
-{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}}  <span style="color:blue"> CV </span> {{< /staticref >}}]
+{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/CV_Lingzhi_0818_2021.pdf" "newtab" >}}  <span style="color:blue"> CV </span> {{< /staticref >}}]
