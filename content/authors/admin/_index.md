@@ -1,6 +1,6 @@
 ---
 title: Lingzhi Kong
-role: "Student at Northeastern University "
+role: "MS in Robotics and AI"
 avatar_filename: ""
 bio: "AI and Robotics. "
 interests:
