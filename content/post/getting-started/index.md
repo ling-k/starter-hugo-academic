@@ -73,6 +73,9 @@ $$\gamma_{n} = \frac{
 
 $\nabla F(\mathbf{x}_{n})$
 
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+
 [Turorial markdown latex](https://wowchemy.com/docs/content/writing-markdown-latex/)
 
 
