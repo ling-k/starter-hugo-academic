@@ -25,10 +25,10 @@ organizations:
 education:
   courses:
     - course: MS in Robotics
-      institution: Northeastern University
+      institution: Northeastern University, Boston, USA 
       year: 2019-2021
-    - course: BSc in Artificial Intelligence
-      institution: Inner Mongolia University of Technology
+    - course: BSc in EE
+      institution: Inner Mongolia University of Technology, China
       year: 2014
 email: ""
 superuser: true
