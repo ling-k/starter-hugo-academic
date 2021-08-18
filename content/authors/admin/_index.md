@@ -40,7 +40,7 @@ I also worked on medical robots project.
 
 **I am currently looking for PHD positions in robotics and AI.** 
 
-{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}} CV <span style="color:blue"> some emphasized</span> {{< /staticref >}}]
+{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}}  <span style="color:blue"> CV </span> {{< /staticref >}}]
 
 <span style="color:red"> some emphasized markdown text</span>
 <span style="color:blue"> some emphasized markdown text</span>
