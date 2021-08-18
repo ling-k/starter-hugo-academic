@@ -10,7 +10,7 @@ headless: true
 weight: 65
 # active: false 
 
-title: Recent Publications
+title: ALL Publications
 subtitle: ''
 
 content:
