@@ -43,13 +43,4 @@ I also worked on medical robotic projects.
 
 {{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/CV_Lingzhi_0818_2021.pdf" "newtab" >}}  <span style="color:blue; font-size:1.3em;">CV</span> {{< /staticref >}}]
 
-{{< icon name="download" pack="fas" >}} 
-
-<span style="color:blue"> [**Personalize your site**]  </span>
-
-<span style="color:orangered; font-size:1em;"> [**Personalize test hao**]  </span>
-
-
-
-📚 [**Personalize your site**](https://wowchemy.com/docs/)
 
