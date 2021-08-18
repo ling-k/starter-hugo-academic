@@ -59,6 +59,11 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 Hi `$z_2 = x + y$`
 $`a^2+b^2=c^2`$
 
+```math
+e^{i\pi} + 1 = 0
+```
+
+
 ## Features
 
 - **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
