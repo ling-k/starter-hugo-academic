@@ -35,6 +35,6 @@ superuser: true
 highlight_name: false
 ---
 Lingzhi Kong is a Master's student in Robotics at Northeastern. His research interests include machine learning and robotics. He has been involved in research on object-centric world model learning, compositional generalization, model-based reinforcement learning. 
-
+I worked on medical robots project. 
 
 {{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}} CV {{< /staticref >}}]
