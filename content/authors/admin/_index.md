@@ -47,7 +47,7 @@ I also worked on medical robotic projects.
 
 <span style="color:blue"> [**Personalize your site**]  </span>
 
-<span style="color:orangered; font-family:Papyrus; font-size:4em;"> [**Personalize test hao **]  </span>
+<span style="color:orangered; font-family:Papyrus; font-size:3em;"> [**Personalize test hao**]  </span>
 
 
 
