@@ -29,20 +29,25 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities:
         
         * object-centric world model learning 
         * compositional generalization 
         * Model-based RL 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant 
+    company: Khoury College of Computer Science 
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Boston 
+    date_start: '2020-09-01'
+    date_end: '2020-12-15'
+    description: |2-
+        Course title: CS 5180 Reinforcement Learning and Decision Making  
+        Responsibilities include:
+        
+        * hold office hour weekly
+        * grade assignments 
+        
 
 design:
   columns: '2'
