@@ -15,7 +15,8 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
 
 [2021/06] Started summer internship at Amazon Science on reinforcement learning.
-[2021/06] New paper [pdf](https://wowchemy.com/docs/)
+
+[**March, 2019**] New paper [pdf](https://wowchemy.com/docs/)
 
 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 
