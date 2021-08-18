@@ -10,7 +10,7 @@ headless: true
 weight: 65
 # active: false 
 
-title: ALL Publications
+title: Recent Publications
 subtitle: ''
 
 content:
@@ -35,7 +35,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
 ---
 
 {{% callout note %}}
