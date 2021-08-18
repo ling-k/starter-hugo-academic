@@ -36,19 +36,18 @@ experience:
         * Model-based RL 
         
   - title: Teaching Assistant 
-    company: Khoury College of Computer Science, Northeastern  
+    company: Khoury College of Computer Sciences, Northeastern  
     company_url: ''
     location: Boston 
     date_start: '2020-09-01'
     date_end: '2020-12-15'
     description: |2-
-        Course title: CS 5180 Reinforcement Learning and Decision Making  
-        Responsibilities include:
+        Course title: CS 5180 Reinforcement Learning and Decision Making [syllabus](http://www.ccs.neu.edu/home/lsw/teaching/4180-5180-f20-syllabus.pdf)  
+        Responsibilities:
         
         * hold office hour weekly
         * grade assignments 
         
-
 design:
   columns: '2'
 ---
