@@ -42,7 +42,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-15'
     description: |2-
-        Course title: CS 5180 Reinforcement Learning and Decision Making [[syllabus]](http://www.ccs.neu.edu/home/lsw/teaching/4180-5180-f20-syllabus.pdf){:target="_blank"}  
+        Course title: CS 5180 Reinforcement Learning and Decision Making [[syllabus](http://www.ccs.neu.edu/home/lsw/teaching/4180-5180-f20-syllabus.pdf)]  
         Responsibilities:
         
         * hold office hour weekly
