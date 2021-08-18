@@ -39,10 +39,6 @@ contact_links:
     icon_pack: fab
     name: Linkedin
     link: 'https://www.linkedin.com/in/lingzhi-kong-452764168/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
