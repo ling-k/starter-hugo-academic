@@ -62,7 +62,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -126,7 +126,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'google'
   api_key: ''
   zoom: 15
 marketing:
