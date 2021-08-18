@@ -42,4 +42,4 @@ I also worked on medical robots project.
 
 {{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/robotics-ms-requirement.pdf" "newtab" >}} CV {{< /staticref >}}]
 
-<span style="color:red"> *some emphasized markdown text*</span>
+<span style="color:red"> some emphasized markdown text</span>
