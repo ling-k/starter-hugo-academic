@@ -55,8 +55,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 * **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
 ## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+$f(\textbf{PX})=f(\textbf{X})$
 
 ## Features
 
