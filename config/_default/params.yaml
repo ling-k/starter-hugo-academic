@@ -23,24 +23,22 @@ twitter: ''
 email: kong.ling@northeastern.edu
 # phone: 888 888 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 805 Columbus Ave
+  city: Boston
+  region: MA
+  postcode: '02120'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '42.33'
+  longitude: '-71.08'
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'https://calendly.com'
+  - 'Monday to Friday 09:00 to 17:00'
 contact_links:
-  - icon: keybase
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+    name: Linkedin
+    link: 'https://www.linkedin.com/in/lingzhi-kong-452764168/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
