@@ -57,6 +57,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 ## Inspiration
 `$$f(\textbf{PX})=f(\textbf{X})$$`
 Hi `$z_2 = x + y$`
+$`a^2+b^2=c^2`$
 
 ## Features
 
