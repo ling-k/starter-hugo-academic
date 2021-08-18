@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: TestLink
+ url: 'https://www.youtube.com/watch?v=pZpetVZrR7I' 
 
 url_pdf: 'https://ling-kong.netlify.app/publication/example/example.pdf'
 url_code: ''
