@@ -19,6 +19,8 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
 
 [**March, 2019**] New paper [pdf](https://wowchemy.com/docs/)
 
+[**Aug, 19, 2021**] Spent the whole day building my personal site. 
+
 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A&cl=ffffff&w=a"></script>

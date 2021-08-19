@@ -10,7 +10,7 @@ headless: true
 weight: 140
 
 title: Recent Posts
-subtitle: 'temporary' 
+subtitle: '3' 
 
 
 content:
