@@ -10,7 +10,7 @@ headless: true
 weight: 140
 
 title: Recent Posts
-subtitle: 'still test temporary' 
+subtitle: 'test temporary' 
 
 
 content:
