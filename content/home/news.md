@@ -3,6 +3,7 @@
 widget: blank 
 headless: true
 weight: 150 
+active: false 
 
 title: News 
 
