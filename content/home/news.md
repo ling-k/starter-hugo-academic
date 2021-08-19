@@ -23,7 +23,7 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A&cl=ffffff&w=a"></script>
 
-#<a href="https://clustrmaps.com/site/1bji8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A&cl=ffffff" /></a>
+# <a href="https://clustrmaps.com/site/1bji8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A&cl=ffffff" /></a>
 
 
 
