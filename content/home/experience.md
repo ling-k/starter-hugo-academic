@@ -46,7 +46,7 @@ experience:
         Responsibilities:
         
         * hold office hour weekly
-        * grade assignments 
+        * provide guidence for students on their homework and course projects  
         
 design:
   columns: '2'

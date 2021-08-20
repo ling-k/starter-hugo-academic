@@ -18,7 +18,11 @@ social:
     link: https://github.com/ling-k
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lingzhi-kong-452764168/
+    link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
+  - icon: cv 
+    link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
+
+  
 organizations:
   - name: Northeastern University
     url: https://www.northeastern.edu/
