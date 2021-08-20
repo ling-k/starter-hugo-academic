@@ -38,10 +38,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
-
-{{< icon name="download" pack="fas" >}}
+\* equal contribution 
 
 {{< icon name="list" pack="fas" >}} [**Publication List**](./publication/)
