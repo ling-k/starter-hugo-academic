@@ -11,7 +11,7 @@ weight: 65
 # active: false 
 
 title: Recent Publications
-subtitle: '\* equal contribution'
+subtitle: '&nbsp; &nbsp; &nbsp; \* equal contribution'
 
 content:
   # Page type to display. E.g. post, talk, publication...
