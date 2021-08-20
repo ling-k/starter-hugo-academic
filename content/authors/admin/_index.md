@@ -20,6 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
   - icon: cv 
+    icon_pack: ai
     link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
 
   
