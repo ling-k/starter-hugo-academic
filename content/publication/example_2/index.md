@@ -6,7 +6,7 @@ title: Lingzhi Kong, "Papers - ICML"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin 
-- Lingzhi
+- Lingzhi<sup>*</sup> 
 
 # Author notes (optional)
 author_notes:
