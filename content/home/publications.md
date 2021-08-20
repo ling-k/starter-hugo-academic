@@ -42,4 +42,6 @@ design:
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-[publication list](./publication/)
+{{< icon name="download" pack="fas" >}}
+
+{{< icon name="list" pack="fas" >}} [**Publication List**](./publication/)
