@@ -38,4 +38,4 @@ design:
   view: 4
 ---
 
-\* **equal contribution**  {{< icon name="list" pack="fas" >}} [**Publication List**](./publication/)
+\* **equal contribution** &nbsp; &nbsp; &nbsp; &nbsp; {{< icon name="list" pack="fas" >}} [**Publication List**](./publication/)
