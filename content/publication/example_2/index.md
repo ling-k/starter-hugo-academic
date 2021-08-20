@@ -7,7 +7,6 @@ title: Lingzhi Kong, "Papers - ICML"
 authors:
 - admin 
 - Lingzhi*
-- **Lingzhi** 
 
 
 # Author notes (optional)
