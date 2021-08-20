@@ -45,7 +45,12 @@ links:
     name: Follow
     url: 'https://twitter.com/Twitter'
   - name: Originally published on Medium
-    url: 'https://medium.com'
+    url: 'https://medium.com' 
+  - icon_pack: ai
+    icon: arxiv
+    name: preprint
+    url: 'https://arxiv.org/abs/1612.00222'    
+   
     
 url_pdf: 'https://ling-kong.netlify.app/publication/example/example.pdf'
 url_code: ''

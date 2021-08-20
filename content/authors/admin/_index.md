@@ -21,7 +21,7 @@ social:
     link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
   - icon: cv 
     icon_pack: ai
-    link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
+    link: https://ling-k.github.io/uploads/CV_Lingzhi_0819_2021.pdf
 
   
 organizations:
