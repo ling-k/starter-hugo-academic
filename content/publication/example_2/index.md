@@ -49,7 +49,7 @@ links:
     url: 'https://medium.com' 
   - icon_pack: ai
     icon: arxiv
-    name: preprint
+    name: arxiv 
     url: 'https://arxiv.org/abs/1612.00222'    
    
     
