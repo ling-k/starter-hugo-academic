@@ -9,6 +9,8 @@ date: "2021-08-18T00:00:00Z"
 external_link: "" 
 
 links:
+- name: Report
+  url: https://ling-k.github.io/uploads/Report-Image-Guided-Surgical-Robot.pdf
 url_code: ""
 url_pdf: "https://ling-k.github.io/uploads/Report-Image-Guided-Surgical-Robot.pdf"
 url_slides: "https://ling-k.github.io/uploads/surgical_robot_project_slides.pdf"
