@@ -6,7 +6,7 @@ tags:
 date: "2021-08-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://arxiv.org/abs/1612.00222" 
 
 links:
   - icon_pack: fab
@@ -23,7 +23,7 @@ links:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ling-k.github.io/uploads/Report_Development of an Image-Guided Surgical Robot for Bone Tumor Resection.pdf"
 url_slides: "https://ling-k.github.io/uploads/surgical_robot_project_slides.pdf"
 url_video: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
 
