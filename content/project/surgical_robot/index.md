@@ -1,6 +1,6 @@
 ---
 title: Image-Guided Surgical Robot 
-summary: Surgical Robot for Bone Surgery 
+summary: Surgical Robot for Bone Resection Surgery 
 tags:
 - Robotics
 - Test Tag 
