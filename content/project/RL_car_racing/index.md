@@ -33,7 +33,9 @@ state and actions made by the expert will be recorded at the
 same time. Our goal for behavioral cloning is to teach an
 agent to play the game using expert demonstrated data.
 
-
+As shown in the figure below, For traditional behavior cloning, we first collect expert demonstration data, and use it to learn a policy mapping from states to actions. However, there are some problems with this method. Expert only samples limited obersavations or, states, so the policy will make big mistakes when the agent goes to a state that has not been encountered before.
+![Car Image](scheme_dagger.png)
+One solution for this problem is Dataset aggregration, or dagger.  The idea of dagger is that we use our learned policy to interact with the enviornment, and record the states and the action under expert policy. Then we add the new data to the dataset, and use the new dataset to train our new policy. It is just like iterative version of behavior cloning.
 
 
 
