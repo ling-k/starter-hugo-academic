@@ -18,7 +18,7 @@ url_video: "https://youtu.be/SGem0jixpic"
 
 --- 
 
-This project aims at dealing with decision making problems in autonomous driving by applying deep reinforcement
+This project deals with decision making problems in autonomous driving by applying deep reinforcement
 learning and behavioral cloning algorithm in a simulated car
 racing environment. To be specific, we will implement deep
 reinforcement learning algorithms (Proximal Policy Optimization) and behavioral cloning algorithm (DAGGER) and
