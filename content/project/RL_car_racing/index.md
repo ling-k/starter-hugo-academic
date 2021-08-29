@@ -2,7 +2,7 @@
 title: Teaching an Artificial Agent to Play CarRacing Game 
 summary: Deep reinforcement learning, imitation learning  
 tags:
-- Deep Reinforcement Learning
+- RL
 
 date: "2021-08-23T00:00:00Z"
 
