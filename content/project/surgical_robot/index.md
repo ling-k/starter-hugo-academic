@@ -6,7 +6,7 @@ tags:
 date: "2021-08-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://arxiv.org/abs/1612.00222" 
+external_link: "" 
 
 links:
   - icon_pack: fab
