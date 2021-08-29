@@ -11,7 +11,7 @@ external_link: ""
 
 links:
 - name: Report
-  url: https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_Report.pdf
+  url: https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_Report_new.pdf
 url_code: ""
 url_slides: "https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_slides.pdf"
 url_video: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
