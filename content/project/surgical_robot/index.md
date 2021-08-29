@@ -8,6 +8,18 @@ date: "2021-08-18T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - name: Originally published on Medium
+    url: 'https://medium.com' 
+  - icon_pack: ai
+    icon: arxiv
+    name: arXiv 
+    url: 'https://arxiv.org/abs/1612.00222'    
+    
 
 links:
 url_code: ""
