@@ -12,7 +12,6 @@ links:
 - name: Report
   url: https://ling-k.github.io/uploads/Report-Image-Guided-Surgical-Robot.pdf
 url_code: ""
-url_pdf: "https://ling-k.github.io/uploads/Report-Image-Guided-Surgical-Robot.pdf"
 url_slides: "https://ling-k.github.io/uploads/surgical_robot_project_slides.pdf"
 url_video: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
 
