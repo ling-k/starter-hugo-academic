@@ -1,6 +1,6 @@
 ---
-title: Surgical Robot 
-summary: Surgical robot for Bone surgery 
+title: Image-Guided Surgical Robot 
+summary: Surgical Robot for Bone Surgery 
 tags:
 - Robotics
 date: "2021-08-18T00:00:00Z"
