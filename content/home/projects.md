@@ -30,7 +30,7 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Deep Reinforcement Learning
-    tag: Deep Reinforcement Learning 
+    tag: Deep Reinforcement Learning
   - name: Robotics
     tag: Robotics 
   - name: Other
