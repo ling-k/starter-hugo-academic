@@ -30,7 +30,9 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Test Tag
-    tag: Test Tag
+    tag: Test Tag 
+  - name: Robotics
+    tag: Robotics 
   - name: Other
     tag: Demo
 
