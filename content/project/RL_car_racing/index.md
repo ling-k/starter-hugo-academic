@@ -14,7 +14,7 @@ links:
   url: https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_Report_edited.pdf
 url_code: ""
 url_slides: "https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_slides.pdf"
-url_video: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
+url_video: "https://youtu.be/SGem0jixpic" 
 
 --- 
 
@@ -38,7 +38,7 @@ As shown in the figure below, For traditional behavior cloning, we first collect
 One solution for this problem is Dataset aggregration, or dagger.  The idea of dagger is that we use our learned policy to interact with the enviornment, and record the states and the action under expert policy. Then we add the new data to the dataset, and use the new dataset to train our new policy. It is just like iterative version of behavior cloning.
 
  
-More details: [<span style="color:blue"> Report </span>](https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_Report_edited.pdf), [<span style="color:blue"> Slides </span>](https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_slides.pdf),  [<span style="color:blue"> Video </span>](https://www.youtube.com/watch?v=vR4T4orNpzU).
+More details: [<span style="color:blue"> Report </span>](https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_Report_edited.pdf), [<span style="color:blue"> Slides </span>](https://ling-k.github.io/uploads/Kong_Xu_CS5180_Project_slides.pdf),  [<span style="color:blue"> Video </span>](https://youtu.be/SGem0jixpic). 
 
 
 
