@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Test Tag
-    tag: Test Tag 
+  - name: Deep Reinforcement Learning
+    tag: Deep Reinforcement Learning 
   - name: Robotics
     tag: Robotics 
   - name: Other

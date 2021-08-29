@@ -3,7 +3,7 @@ title: Image-Guided Surgical Robot
 summary: Surgical Robot for Bone Resection Surgery 
 tags:
 - Robotics
-- Test Tag 
+#- Test Tag 
 date: "2021-08-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
