@@ -12,8 +12,9 @@ external_link: ""
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "https://ling-k.github.io/uploads/resume_aug_28_2021.pdf"
+url_slides: "https://ling-k.github.io/uploads/surgical_robot_project_slides.pdf"
 url_video: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
+url_report: "https://www.youtube.com/watch?v=vR4T4orNpzU" 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
