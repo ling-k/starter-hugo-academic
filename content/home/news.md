@@ -16,8 +16,4 @@ design:
 
 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=266&t=n&d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A'></script>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A"></script>
-
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=466&t=n&d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A'></script>
