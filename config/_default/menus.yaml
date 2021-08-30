@@ -20,7 +20,7 @@ main:
     url: '#experience'
     weight: 50
   - name: Skills
-    url: '#skills'
+    url: '#skills_list'
     weight: 60
   - name: Contact
     url: '#contact'
