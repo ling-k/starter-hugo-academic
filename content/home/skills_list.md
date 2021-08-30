@@ -14,3 +14,5 @@ design:
 ---
 
 [**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
+
+[**C++**] medium &ensp;&ensp;
