@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Compositional Generalization
+    tag: Compositional Generalization
   - name: Deep RL
     tag: RL
   - name: Robotics
