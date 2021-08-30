@@ -14,6 +14,7 @@ design:
 ---
 
 Proficient: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 
+Intermediate: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}
 Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} 
 
 
