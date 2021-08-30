@@ -32,6 +32,6 @@ Pytorch &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas
 
 <span style="color:black; font-size:1.5em; font-weight: bold; ">Languages</span>
 
-English &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp; 
-Chinese &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 
+English &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; 
+Chinese &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; &ensp;&ensp;  
 Mongolian &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp; 
