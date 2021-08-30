@@ -24,10 +24,10 @@ Python &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas
 Pytorch &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp;  
 Matlab &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp;       
 
-C++ {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
+C++ &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; 
 
 
-<span style="color:black; font-size:1.5em;">Frameworks</span>
+<span style="color:black; font-size:1.5em;">Frameworks&Tools</span>
 
 [**Latex**] {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] {{< icon name="star" pack="far" >}} &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
