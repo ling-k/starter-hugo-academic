@@ -15,8 +15,8 @@ design:
 
 [**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
 
-[**C++**] medium &ensp;&ensp; 
+[**C++**] {{< icon name="download" pack="fas" >}} &ensp;&ensp; 
 
 [**Latex**] proficient &ensp;&ensp; [**Git**] proficient &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
-$$\faEnvelope$$
+
