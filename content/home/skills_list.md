@@ -15,8 +15,8 @@ design:
 
 [**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
 
-[**C++**] {{< icon name="download" pack="fas" >}}  &ensp;&ensp; 
+[**C++**] {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
 
-[**Latex**] {{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] proficient &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
+[**Latex**] {{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] {{< icon name="star" pack="far" >}} &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
 
