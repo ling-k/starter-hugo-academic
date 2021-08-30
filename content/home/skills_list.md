@@ -20,12 +20,18 @@ Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}
 
 <span style="color:black; font-size:1.5em; font-weight: bold;">Coding</span>
 
-Python &ensp;&ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; Pytorch  &ensp;&ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; **Matlab** proficient       
+Python &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp;&ensp;&ensp;  
+Pytorch &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; 
+Matlab &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp;       
 
 C++ {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
+
 
 <span style="color:black; font-size:1.5em;">Frameworks</span>
 
 [**Latex**] {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] {{< icon name="star" pack="far" >}} &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
+
 <span style="color:black; font-size:1.5em;">Languages</span>
+
+English 
