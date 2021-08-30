@@ -10,9 +10,13 @@ title: Skills
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "0", "30px", "0"]
+    padding: ["60px", "0", "60px", "0"]
 ---
 
 [**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
 
-[**C++**] medium &ensp;&ensp;
+[**C++**] medium &ensp;&ensp; 
+
+[**Latex**] proficient &ensp;&ensp; [**Git**] proficient &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
+
+$$\faEnvelope$$
