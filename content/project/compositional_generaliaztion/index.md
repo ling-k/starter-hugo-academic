@@ -18,7 +18,7 @@ url_video: ""
 
 --- 
 
-This project 
+We study compositional generalizaiton in world modeling, a key ability that humans possess. In particular, given scenes with some combinations of objects, if an agent has learned to interpret them as objects and their interactions, it should be able to generalize to scenes with novel combinations of objects.
 
 
 More details: To appear, will be submitted to ICLR 2022. 
