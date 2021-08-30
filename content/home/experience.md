@@ -49,17 +49,16 @@ experience:
         * provide guidance for students on their homework and course projects  
         
   - title: Software Intern  
-    company: Khoury College of Computer Sciences, Northeastern  
+    company: Shenyang Institute of Automation, Chinese Academy of Sciences
     company_url: ''
-    location: Boston 
-    date_start: '2020-09-01'
-    date_end: '2020-12-15'
+    location: Shenyang, China 
+    date_start: '2016-05-01'
+    date_end: '2017-05-01'
     description: |2-
-        Course title: CS 5180 Reinforcement Learning and Decision Making [[syllabus](http://www.ccs.neu.edu/home/lsw/teaching/4180-5180-f20-syllabus.pdf)]  
-        Responsibilities:
+        Project: Image-Guided Surgical Robot for Bone Tumor Resection
+        Responsibilities: 
         
-        * hold office hour weekly
-        * provide guidance for students on their homework and course projects  
+        * Developed the prototype of a surgical robot for bone surgery
         
         
 design:
