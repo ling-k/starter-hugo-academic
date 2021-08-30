@@ -10,7 +10,7 @@ headless: true
 weight: 30
 # active: false 
 
-title: Recent Publications
+title: Publications
 
 content:
   # Page type to display. E.g. post, talk, publication...
