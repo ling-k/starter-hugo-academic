@@ -32,6 +32,7 @@ Pytorch &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas
 OpenAI Gym &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;  
 Git &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;  
 Latex &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;  
+ROS &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; &ensp;&ensp;
 Linux &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;  
 MongoDB &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;  
 
