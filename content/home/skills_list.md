@@ -20,17 +20,17 @@ Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}
 
 <span style="color:black; font-size:1.5em; font-weight: bold;">Coding</span>
 
-Python &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp;&ensp;&ensp; &ensp;&ensp; Matlab &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; C++ &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; 
+Python &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp;&ensp;&ensp; &ensp;&ensp; Matlab &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; C++ &ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}  &ensp;&ensp; &ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 
-<span style="color:black; font-size:1.5em;">Frameworks & Tools</span>
+<span style="color:black; font-size:1.5em; font-weight: bold;">Frameworks & Tools</span>
 
 Pytorch &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp;  
 
 [**Latex**] {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] {{< icon name="star" pack="far" >}} &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
 
-<span style="color:black; font-size:1.5em;">Languages</span>
+<span style="color:black; font-size:1.5em; font-weight: bold; ">Languages</span>
 
 English &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp; 
 Chinese &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 
