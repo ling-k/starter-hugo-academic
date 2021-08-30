@@ -14,13 +14,13 @@ design:
 ---
 
 Proficient: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 
-Intermediate: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}
+Intermediate: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}  {{< icon name="star-half-alt" pack="fas" >}}  {{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; 
 Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} 
 
 
 <span style="color:black; font-size:1.5em; font-weight: bold;">Coding</span>
 
-**Python** {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
+Python &ensp;&ensp;  {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; Pytorch  &ensp;&ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; **Matlab** proficient       
 
 C++ {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
 
