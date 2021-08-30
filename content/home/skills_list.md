@@ -11,6 +11,8 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["60px", "0", "60px", "0"]
+    # Choose how many columns the section has. Valid values: 1 or 2.
+    columns: '1'
 ---
 
 Proficient: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 

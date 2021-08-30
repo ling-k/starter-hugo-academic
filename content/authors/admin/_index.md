@@ -47,7 +47,7 @@ I was fortunate to work with [<span style="color:blue"> Linfeng Zhao </span>](ht
 
 Before this, I worked on medical robotic projects, where I developed the prototype of a robot for bone surgery. 
 
-**I am looking for positions in AI and robotics.** 
+**I am looking for positions in AI or robotics.** 
 
 {{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/resume_aug_28_2021.pdf" "newtab" >}}  <span style="color:blue; font-size:1.3em;">CV</span> {{< /staticref >}}]
 
