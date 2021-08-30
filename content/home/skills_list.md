@@ -13,7 +13,7 @@ design:
     padding: ["60px", "0", "60px", "0"]
 ---
 
-Proficient: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} 
+Proficient: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; 
 Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} 
 
 
@@ -23,6 +23,8 @@ Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}
 
 [**C++**] {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
 
+<span style="color:black; font-size:1.5em;">Frameworks</span>
+
 [**Latex**] {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Git**] {{< icon name="star" pack="far" >}} &ensp;&ensp; [**Linux**] proficient &ensp;&ensp;  
 
-
+<span style="color:black; font-size:1.5em;">Languages</span>
