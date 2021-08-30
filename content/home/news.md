@@ -20,6 +20,6 @@ design:
 
 <a href="https://clustrmaps.com/site/1bji8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A&cl=ffffff" /></a>
 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1WncIEGtM4FjuJZOJN0-izWUwE78DY28uuCY9zGe86A"></script>
 
 
