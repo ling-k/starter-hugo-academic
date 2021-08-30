@@ -1,5 +1,5 @@
 ---
-title: Lingzhi Kong, "Papers - ICML"
+title: Example Papers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -50,7 +50,7 @@ links:
   - icon_pack: ai
     icon: arxiv
     name: arXiv 
-    url: 'https://arxiv.org/abs/1612.00222'    
+    url: 'https://arxiv.org'    
    
     
 url_pdf: 'https://ling-kong.netlify.app/publication/example/example.pdf'
