@@ -12,4 +12,4 @@ design:
   columns: '1'
 ---
 
-[**Python**] proficient  [**Pytorch**] proficient  **Matlab** proficient       
+[**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
