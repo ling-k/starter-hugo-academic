@@ -12,7 +12,7 @@ design:
   columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["60px", "0", "60px", "0"]
+    padding: ["60px", "60px", "60px", "60px"]
 
 ---
 
@@ -42,5 +42,4 @@ MongoDB &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas
 <span style="color:black; font-size:1.5em; font-weight: bold; ">Languages</span>
 
 English &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}} &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; 
-Chinese &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; &ensp;&ensp;  
-Mongolian &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} 
+Chinese &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; Mongolian &ensp; {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}}{{< icon name="star" pack="far" >}} 
