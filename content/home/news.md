@@ -12,14 +12,7 @@ design:
   columns: '1'
 ---
 
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-
-[2021/06] Started reinforcement learning.
-
-[**March, 2019**] New paper [pdf](https://wowchemy.com/docs/) superscript <sub>2</sub>, superscript <sup>*</sup>
-
-[**Aug, 19, 2021**] Spent the whole day building my personal site. 
+[**Aug, 19, 2021**] Spent whole day building my personal site. 
 
 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 
