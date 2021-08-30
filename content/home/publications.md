@@ -7,11 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 # active: false 
 
 title: Recent Publications
-subtitle: '\* equal contribution'
 
 content:
   # Page type to display. E.g. post, talk, publication...
