@@ -21,7 +21,7 @@ Beginner: {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="far" >}}
 
 **Python** {{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}}{{< icon name="star" pack="fas" >}} &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
 
-[**C++**] {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
+C++ {{< icon name="star" pack="fas" >}} {{< icon name="star-half-alt" pack="fas" >}}  &ensp;&ensp; 
 
 <span style="color:black; font-size:1.5em;">Frameworks</span>
 
