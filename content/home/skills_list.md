@@ -8,8 +8,9 @@ weight: 85
 title: Skills 
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
 ---
 
 [**Python**] proficient &ensp;&ensp; [**Pytorch**] proficient &ensp; **Matlab** proficient       
