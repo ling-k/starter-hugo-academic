@@ -21,7 +21,7 @@ social:
     link: https://www.linkedin.com/in/lingzhi-kong-452764168/ 
   - icon: cv 
     icon_pack: ai
-    link: https://ling-k.github.io/uploads/resume_aug_28_2021.pdf
+    link: https://ling-k.github.io/uploads/cv_lingzhi_2021.pdf
 
   
 organizations:
@@ -49,6 +49,6 @@ Before this, I worked on medical robotic projects, where I developed the prototy
 
 **I am looking for positions in AI or robotics.** 
 
-{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/resume_aug_28_2021.pdf" "newtab" >}}  <span style="color:blue; font-size:1.3em;">CV</span> {{< /staticref >}}]
+{{< icon name="download" pack="fas" >}} \[ {{< staticref "uploads/cv_lingzhi_2021.pdf" "newtab" >}}  <span style="color:blue; font-size:1.3em;">CV</span> {{< /staticref >}}]
 
 
